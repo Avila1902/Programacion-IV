@@ -1,0 +1,17 @@
+C:\Users\franc\source\repos\01 Hola Mundo\bin\Debug\net8.0-windows\01 Hola Mundo.exe
+C:\Users\franc\source\repos\01 Hola Mundo\bin\Debug\net8.0-windows\01 Hola Mundo.deps.json
+C:\Users\franc\source\repos\01 Hola Mundo\bin\Debug\net8.0-windows\01 Hola Mundo.runtimeconfig.json
+C:\Users\franc\source\repos\01 Hola Mundo\bin\Debug\net8.0-windows\01 Hola Mundo.dll
+C:\Users\franc\source\repos\01 Hola Mundo\bin\Debug\net8.0-windows\01 Hola Mundo.pdb
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\_01_Hola_Mundo.Form1.resources
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\_01_Hola_Mundo.Properties.Resources.resources
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\01 Hola Mundo.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\01 Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\01 Hola Mundo.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\01 Hola Mundo.AssemblyInfo.cs
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\01 Hola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\01 Hola Mundo.dll
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\refint\01 Hola Mundo.dll
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\01 Hola Mundo.pdb
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\01 Hola Mundo.genruntimeconfig.cache
+C:\Users\franc\source\repos\01 Hola Mundo\obj\Debug\net8.0-windows\ref\01 Hola Mundo.dll
