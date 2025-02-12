@@ -1,0 +1,10 @@
+C:\Users\franc\source\repos\Ejercicio 2 Concatenar texto\obj\Debug\Ejercicio 2 Concatenar texto.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Ejercicio 2 Concatenar texto\obj\Debug\Ejercicio_2_Concatenar_texto.Form1.resources
+C:\Users\franc\source\repos\Ejercicio 2 Concatenar texto\obj\Debug\Ejercicio_2_Concatenar_texto.Properties.Resources.resources
+C:\Users\franc\source\repos\Ejercicio 2 Concatenar texto\obj\Debug\Ejercicio 2 Concatenar texto.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Ejercicio 2 Concatenar texto\obj\Debug\Ejercicio 2 Concatenar texto.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Ejercicio 2 Concatenar texto\bin\Debug\Ejercicio 2 Concatenar texto.exe.config
+C:\Users\franc\source\repos\Ejercicio 2 Concatenar texto\bin\Debug\Ejercicio 2 Concatenar texto.exe
+C:\Users\franc\source\repos\Ejercicio 2 Concatenar texto\bin\Debug\Ejercicio 2 Concatenar texto.pdb
+C:\Users\franc\source\repos\Ejercicio 2 Concatenar texto\obj\Debug\Ejercicio 2 Concatenar texto.exe
+C:\Users\franc\source\repos\Ejercicio 2 Concatenar texto\obj\Debug\Ejercicio 2 Concatenar texto.pdb

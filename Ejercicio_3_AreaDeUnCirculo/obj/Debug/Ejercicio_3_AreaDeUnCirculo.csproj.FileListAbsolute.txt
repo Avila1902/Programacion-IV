@@ -1,0 +1,10 @@
+C:\Users\franc\source\repos\Ejercicio_3_AreaDeUnCirculo\bin\Debug\Ejercicio_3_AreaDeUnCirculo.exe.config
+C:\Users\franc\source\repos\Ejercicio_3_AreaDeUnCirculo\bin\Debug\Ejercicio_3_AreaDeUnCirculo.exe
+C:\Users\franc\source\repos\Ejercicio_3_AreaDeUnCirculo\bin\Debug\Ejercicio_3_AreaDeUnCirculo.pdb
+C:\Users\franc\source\repos\Ejercicio_3_AreaDeUnCirculo\obj\Debug\Ejercicio_3_AreaDeUnCirculo.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Ejercicio_3_AreaDeUnCirculo\obj\Debug\Ejercicio_3_AreaDeUnCirculo.Form1.resources
+C:\Users\franc\source\repos\Ejercicio_3_AreaDeUnCirculo\obj\Debug\Ejercicio_3_AreaDeUnCirculo.Properties.Resources.resources
+C:\Users\franc\source\repos\Ejercicio_3_AreaDeUnCirculo\obj\Debug\Ejercicio_3_AreaDeUnCirculo.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Ejercicio_3_AreaDeUnCirculo\obj\Debug\Ejercicio_3_AreaDeUnCirculo.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Ejercicio_3_AreaDeUnCirculo\obj\Debug\Ejercicio_3_AreaDeUnCirculo.exe
+C:\Users\franc\source\repos\Ejercicio_3_AreaDeUnCirculo\obj\Debug\Ejercicio_3_AreaDeUnCirculo.pdb

@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\bin\Debug\Ejercicio_4_Celsius_Fharenheit.exe.config
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\bin\Debug\Ejercicio_4_Celsius_Fharenheit.exe
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\bin\Debug\Ejercicio_4_Celsius_Fharenheit.pdb
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\obj\Debug\Ejercicio_4_Celsius_Fharenheit.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\obj\Debug\Ejercicio_4_Celsius_Fharenheit.Form1.resources
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\obj\Debug\Ejercicio_4_Celsius_Fharenheit.Properties.Resources.resources
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\obj\Debug\Ejercicio_4_Celsius_Fharenheit.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\obj\Debug\Ejercicio_4_Celsius_Fharenheit.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\obj\Debug\Ejercicio_4_Celsius_Fharenheit.exe
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\obj\Debug\Ejercicio_4_Celsius_Fharenheit.pdb
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\obj\Debug\Ejercicio_4_Celsius_Fharenheit.caf.resources
+C:\Users\franc\source\repos\Ejercicio_4_Celsius_Fharenheit\obj\Debug\Ejercicio_4_Celsius_Fharenheit.Fac.resources
