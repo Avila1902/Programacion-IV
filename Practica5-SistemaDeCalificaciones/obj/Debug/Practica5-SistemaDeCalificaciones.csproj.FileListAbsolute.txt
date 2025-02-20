@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\bin\Debug\Practica5-SistemaDeCalificaciones.exe.config
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\bin\Debug\Practica5-SistemaDeCalificaciones.exe
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\bin\Debug\Practica5-SistemaDeCalificaciones.pdb
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\obj\Debug\Practica5-SistemaDeCalificaciones.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\obj\Debug\Practica5_SistemaDeCalificaciones.Form1.resources
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\obj\Debug\Practica5_SistemaDeCalificaciones.Properties.Resources.resources
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\obj\Debug\Practica5-SistemaDeCalificaciones.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\obj\Debug\Practica5-SistemaDeCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\obj\Debug\Practica5-SistemaDeCalificaciones.exe
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\obj\Debug\Practica5-SistemaDeCalificaciones.pdb
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\bin\Debug\Resources\extra.png
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\bin\Debug\Resources\ordinario.png
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\bin\Debug\Resources\especial.png
+C:\Users\franc\source\repos\Practica5-SistemaDeCalificaciones\bin\Debug\Resources\exento1.png
