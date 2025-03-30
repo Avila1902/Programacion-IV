@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\Practica04_Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2B8E3A-BD69-4317-80A3-A03A2B6C3504}|Practica04_Login.csproj|C:\\Users\\franc\\source\\repos\\Practica04_Login\\pokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC2B8E3A-BD69-4317-80A3-A03A2B6C3504}|Practica04_Login.csproj|solutionrelative:pokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2B8E3A-BD69-4317-80A3-A03A2B6C3504}|Practica04_Login.csproj|c:\\users\\franc\\source\\repos\\practica04_login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC2B8E3A-BD69-4317-80A3-A03A2B6C3504}|Practica04_Login.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2B8E3A-BD69-4317-80A3-A03A2B6C3504}|Practica04_Login.csproj|C:\\Users\\franc\\source\\repos\\Practica04_Login\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC2B8E3A-BD69-4317-80A3-A03A2B6C3504}|Practica04_Login.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Practica04_Login\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Practica04_Login\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:17:10.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Practica04_Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Practica04_Login\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:17:04.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pokedex.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Practica04_Login\\pokedex.cs",
+              "RelativeDocumentMoniker": "pokedex.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Practica04_Login\\pokedex.cs [Design]",
+              "RelativeToolTip": "pokedex.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:17:21.1Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
